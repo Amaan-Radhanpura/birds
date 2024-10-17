@@ -9,7 +9,7 @@ import io
 import base64
 
 
-# streamlit run app.py  # run this for local running
+
 
 st.set_page_config(page_title="What Bird is That?")  # Set tab title
 
